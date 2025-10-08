@@ -1,4 +1,4 @@
-# # jpa01-iansheinis
+# jpa01-iansheinis
 Deployed at: https://jpa01-iansheinis.dokku-07.cs.ucsb.edu/ 
 
 # About this repo
